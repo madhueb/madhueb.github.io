@@ -2,40 +2,40 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Madeleine Hueber
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Data Science 
+      institution: EPFL, Lausanne, Switzerland
+      year: 2024-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Courses include Machine Learning, Modern Natural Language Processing, Statistics for Data Science and other advanced topics.
+        - Gained hands-on experience with various applications of AI through practical projects.
+    - title: Graduate Engineer, Class of 2021
+      institution: Ecole Polytechnique, Palaiseau, France
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Comprehensive engineering curriculum with strong foundations in mathematics and computer science, with a specialization in Applied Mathematics.
+        - Developed analytical, problem-solving, and programming skills through challenging coursework and projects.
+    - title: Classe Préparatoire aux Grandes Ecoles (CPGE) - MPSI/MP*
+      institution: Lycée Louis-le-Grand, Paris, France
+      year: 2019 - 2021
+      description:
+        - Intensive two-year preparatory program focusing on mathematics, physics, and engineering sciences.
+        - Prepared for competitive entrance exams to top French engineering schools.
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Part-time Data Scientist
+      institution: ICES, Switzerland
+      year: March 2025 - now
       description:
-        - Description 1.
+        - Assisting in the development of a predictive tool for seismic risk assessment.
         - Description 2.
         - title: Description 3.
           contents:
