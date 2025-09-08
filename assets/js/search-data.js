@@ -45,49 +45,54 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+      },{id: "projects-optimizing-capital-provisions-for-correlated-foreign-currency-positions",
+          title: 'Optimizing Capital Provisions for Correlated Foreign Currency Positions',
+          description: "Ecole Polytechnique, 2022-2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-creating-an-ai-assistant-for-stem-education",
+          title: 'Creating an AI assistant for STEM education',
+          description: "EPFL, Feb-Jun 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-detecting-emerging-dog-whistles",
+          title: 'Detecting Emerging Dog Whistles',
+          description: "EPFL, Feb-Jun 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-graph-based-eeg-analysis",
+          title: 'Graph-based EEG analysis',
+          description: "EPFL, Feb-Jun 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-benchmarking-mil-methods",
+          title: 'Benchmarking MIL methods',
+          description: "EPFL, Sep - Dec 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-document-retrieval-in-a-multilingual-corpus",
+          title: 'Document Retrieval in a Multilingual Corpus',
+          description: "EPFL, Sep - Dec 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-creating-a-book-recommender-system",
+          title: 'Creating a book recommender system',
+          description: "EPFL, Sep - Dec 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-analyzing-navigation-patterns-in-wikispeedia",
+          title: 'Analyzing Navigation Patterns in Wikispeedia',
+          description: "EPFL, Sep - Dec 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-comparative-analysis-of-cna-timing-algorithms-in-tumor-evolution",
+          title: 'Comparative Analysis of CNA Timing Algorithms in Tumor Evolution',
+          description: "Columbia University, Apr - Jul 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-random-and-statistical-modeling-of-processes",
+          title: 'Random and statistical modeling of processes',
+          description: "Ecole Polytechnique, Apr 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
