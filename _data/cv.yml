@@ -3,95 +3,92 @@
   contents:
     - name: Full Name
       value: Madeleine Hueber
+    - name: Research Interests
+      value: Machine Learning, Statistics, Applied Mathematics
     - name: Languages
-      value: French, English
+      value: French (native), English (C1), German (B1), Italian (beginner)
 
 - title: Education
   type: time_table
   contents:
     - title: Master of Data Science 
       institution: EPFL, Lausanne, Switzerland
-      year: 2024-now
+      year: 2024 - now
       description:
         - Courses include Machine Learning, Modern Natural Language Processing, Statistics for Data Science and other advanced topics.
-        - Gained hands-on experience with various applications of AI through practical projects.
+        - Gained hands-on experience with various applications of  Machine and Deep Learning through practical <a href="/projects">projects</a>
     - title: Graduate Engineer, Class of 2021
       institution: Ecole Polytechnique, Palaiseau, France
       year: 2021 - 2024
       description:
-        - Comprehensive engineering curriculum with strong foundations in mathematics and computer science, with a specialization in Applied Mathematics.
-        - Developed analytical, problem-solving, and programming skills through challenging coursework and projects.
+        - Master’s level program (Cycle Ingénieur X2021) in mathematics and computer science, specialized in Applied Mathematics.
+        - Specialization courses include Machine & Deep Learning, Statistical Learning, and Stochastic Modeling.
+        - France’s leading university in science and engineering
     - title: Classe Préparatoire aux Grandes Ecoles (CPGE) - MPSI/MP*
       institution: Lycée Louis-le-Grand, Paris, France
       year: 2019 - 2021
       description:
-        - Intensive two-year preparatory program focusing on mathematics, physics, and engineering sciences.
-        - Prepared for competitive entrance exams to top French engineering schools.
+        - Intensive two-year preparatory program focusing on mathematics and physics.
+        - Prepared for highly competitive entrance exams to top French engineering schools.
 
 - title: Work Experience
   type: time_table
   contents:
     - title: Part-time Data Scientist
-      institution: ICES, Switzerland
-      year: March 2025 - now
+      institution: International Center for Earth Simulation (ICES), Switzerland
+      year: Mar 2025 - now
       description:
-        - Assisting in the development of a predictive tool for seismic risk assessment.
-        - Lead different projects
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Contribute to the development of a  a predictive seismic risk tool and maintain data pipelines for large-scale geospatial and demographic datasets.
+        - Develop algorithmic solutions for data challenges, such as handling missing data or spatial segmentation of populations
+    - title: Research Intern
+      institution: Irving Institute for Cancer Dynamics (IICD), Columbia Univeristy, NY, USA
+      year: Apr - Jul 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Evaluate and benchmark Copy Number Alteration (CNA) timing algorithms (CancerTiming, MutationTimeR, GRITIC) using the CINner simulation framework.
+        - Explore adaptation of algorithms for single-cell sequencing data, addressing challenges such as false negatives and low coverage.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Carbon Ingeneer Intern 
+      institution: Carbometrix, Paris, France
+      year: Jun - Aug 2023
       description:
+        - Contributed to carbon footprint calculations and conducted sector research to support sustainability assessments.
+        - Assisted with platform development and various data-related tasks for the carbon analytics team.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Military internship
+      institution: Gendarmerie nationale, Vannes, France
+      year: Dec - Apr 2022
+      description: 
+        - Experienced 6 months as the assistant of the Commander of a military police in Vannes in daily operations. 
+        - Faced risky situations during patrols, developing adaptability and analytical skills.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Volunteer work  
+      institution: Voltaire Program, Paris, France
+      year: 2018 - 2019
+      description :
+        - Helped middle school students with domestic issues to do their homework and monitored their progress over the year. 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Computer Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Programming Languages:</u> Python, R, SQL, Java
+    - <u>Tools & Technologies:</u> TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy ...
+    - <u>Data Visualization:</u> Matplotlib, Seaborn, plotly ...
+
+- title: Extracurricular Activities 
+  type: nested_list
+  contents:
+    - title: Art
+      items:
+        - Passion for painting, drawing, and sewing.
+        - Member of Polytechnique’s Broadway team, in charge of costumes and sets.
+        - Bachelor degree in History and Art History (Nanterre University) in 2023 as part of a partnership with Polytechnique.
+    - title: Student Associative Life
+      items:
+        - Co-organised a student festival (OktoBB) gathering ~1500 attendees and 250 volunteers. 
+        - Organised a conference on the "backlash" phenomenon during Polytechnique’s Women’s Rights Week.
+    - title : Sport
+      items:
+        - Part of the Basket-Ball team at Polytechnique
+        - 10 years of ballet class
+        - Advanced Open Water SCUBA Diver

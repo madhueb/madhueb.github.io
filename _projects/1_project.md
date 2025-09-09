@@ -4,7 +4,7 @@ title: Creating an AI assistant for STEM education
 description: EPFL, Feb-Jun 2025
 img: assets/img/MNLP.png
 importance: 1
-category: work
+category: Academic projects
 related_publications: false
 ---
 

@@ -4,7 +4,7 @@ title: Detecting Emerging Dog Whistles
 description: EPFL, Feb-Jun 2025
 img: assets/img/DL.png
 importance: 2
-category: work
+category: Academic projects
 ---
 
 This project is part of the EE-559 "Deep Learning" course at EPFL, taught by Prof. Andrea Cavallaro.

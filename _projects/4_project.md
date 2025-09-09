@@ -4,7 +4,7 @@ title: Benchmarking MIL methods
 description: EPFL, Sep - Dec 2024
 img: assets/img/ML4Science.png
 importance: 4
-category: work
+category: Academic projects
 ---
 
 This project is part of the CS‑559 “Machine Learning” course at EPFL, taught by Prof. Martin Jaggi and Nicolas Flammarion, and the “ML4Science” program, enabling students to work on real-world scientific problems in collaboration with research labs. 

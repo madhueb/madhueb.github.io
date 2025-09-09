@@ -4,7 +4,7 @@ title: Analyzing Navigation Patterns in Wikispeedia
 description: EPFL, Sep - Dec 2024
 img: assets/img/ADA.png
 importance: 7
-category: work
+category: Academic projects
 ---
 
 This project is part of the CS-401 “Applied Data Analysis” course at EPFL taught by Prof. Maria Brbic.

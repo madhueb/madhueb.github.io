@@ -4,7 +4,7 @@ title:  Document Retrieval in a Multilingual Corpus
 description: EPFL, Sep - Dec 2024
 img: assets/img/DIS_1.pdf
 importance: 5
-category: work
+category: Academic projects
 ---
 
 This project is part of the CS‑423 “Distributed Information Systems” course at EPFL taught by Prof. Karl Aberer.

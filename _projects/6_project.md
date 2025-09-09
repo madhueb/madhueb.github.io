@@ -4,7 +4,7 @@ title: Creating a book recommender system
 description: EPFL, Sep - Dec 2024
 img: assets/img/DIS_2.pdf
 importance: 6
-category: work
+category: Academic projects
 ---
 
 This project is part of the CS‑423 “Distributed Information Systems” course at EPFL taught by Prof. Karl Aberer.

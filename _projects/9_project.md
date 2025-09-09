@@ -4,7 +4,7 @@ title: Random and statistical modeling of processes
 description: Ecole Polytechnique, Apr 2024
 img: assets/img/MAP565.png
 importance: 9
-category: work
+category: Academic projects
 ---
 
 This project was completed as part of the MAP‑565 “Random and Statistical Modeling of Processes” course at École Polytechnique, taught by Prof. Mathieu Rosenbaum.
