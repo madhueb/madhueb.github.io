@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+  },{id: "nav-cv",
+          title: "CV",
+          description: "You can find here my CV , also available as pdf (English and French)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Here you can find some of my academic projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -45,11 +45,16 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-optimizing-capital-provisions-for-correlated-foreign-currency-positions",
-          title: 'Optimizing Capital Provisions for Correlated Foreign Currency Positions',
+      },{id: "projects-currency-position-optimization",
+          title: 'Currency Position Optimization',
           description: "Ecole Polytechnique, 2022-2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-percolation-effect-and-forest-fire-simulation",
+          title: 'Percolation effect and Forest fire simulation',
+          description: "GPGE, 2020-2021",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-creating-an-ai-assistant-for-stem-education",
           title: 'Creating an AI assistant for STEM education',
           description: "EPFL, Feb-Jun 2025",
@@ -60,8 +65,8 @@ ninja.data = [{
           description: "EPFL, Feb-Jun 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-graph-based-eeg-analysis",
-          title: 'Graph-based EEG analysis',
+            },},{id: "projects-eeg-seizure-detection",
+          title: 'EEG Seizure Detection',
           description: "EPFL, Feb-Jun 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
@@ -85,8 +90,8 @@ ninja.data = [{
           description: "EPFL, Sep - Dec 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-comparative-analysis-of-cna-timing-algorithms-in-tumor-evolution",
-          title: 'Comparative Analysis of CNA Timing Algorithms in Tumor Evolution',
+            },},{id: "projects-comparative-analysis-of-cna-timing-algorithms",
+          title: 'Comparative Analysis of CNA Timing Algorithms',
           description: "Columbia University, Apr - Jul 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
