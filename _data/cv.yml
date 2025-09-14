@@ -44,7 +44,7 @@
       institution: Irving Institute for Cancer Dynamics (IICD), Columbia Univeristy, NY, USA
       year: Apr - Jul 2024
       description:
-        - Evaluate and benchmark Copy Number Alteration (CNA) timing algorithms (CancerTiming, MutationTimeR, GRITIC) using the CINner simulation framework.
+        - Evaluate and benchmark Copy Number Alteration (CNA) timing algorithms using the CINner simulation framework.
         - Explore adaptation of algorithms for single-cell sequencing data, addressing challenges such as false negatives and low coverage.
 
     - title: Carbon Ingeneer Intern 
@@ -72,7 +72,7 @@
   type: list
   contents:
     - <u>Programming Languages:</u> Python, R, SQL, Java
-    - <u>Tools & Technologies:</u> TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy ...
+    - <u>Tools & Technologies:</u>  PyTorch, Scikit-learn, TensorFlow, Pandas, NumPy ...
     - <u>Data Visualization:</u> Matplotlib, Seaborn, plotly ...
 
 - title: Extracurricular Activities 

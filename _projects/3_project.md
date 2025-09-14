@@ -7,9 +7,9 @@ importance: 3
 category: Academic projects
 ---
 
-This project is part of the EE-452 "NetAcademic projects Machine Learning" course at EPFL, taught by Prof. Pascal Frossard and Prof Dorina Thanou.
+This project is part of the EE-452 "Network Machine Learning" course at EPFL, taught by Prof. Pascal Frossard and Prof Dorina Thanou.
 
-The goal of the project is to detect epileptic seizures from EEG data using various machine learning techniques, including graph neural netAcademic projectss (GNNs).
+The goal of the project is to detect epileptic seizures from EEG data using various machine learning techniques, including graph neural networks (GNNs).
 You can find below the project report and code repository.
 
 <div class="mt-4">

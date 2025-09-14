@@ -25,4 +25,4 @@ latest_posts:
 
 I am currently studying for a Master's degree in Data Science at EPFL, after completing my studies in Applied Mathematics at École Polytechnique (Cycle Ingenieur X2021).
 
-On this site, you’ll find some of my projects and research experiences. I’m currently looking for an internship in AI to apply and grow my skills in a dynamic environment.
+On this site, you’ll find some of my projects and research experiences. I’m currently looking for an internship in AI to leverage and expand my skills in a dynamic environment.
